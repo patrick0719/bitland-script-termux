@@ -1,0 +1,6 @@
+$ pkg update && pkg upgrade
+$ pkg install python git unzip
+$ git clone https://github.com/xMakiBoT/bitland-script-termux.git
+$ cd bitland-script-termux
+$ pip3 install requests
+$ python3 main.py
